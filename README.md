@@ -2,6 +2,8 @@
 
 **ChalCLT** is a software solution developed for the IFT-2007 course in Object-Oriented Analysis and Design (Fall 2023). The project is dedicated to providing SOKIO—a company specialized in modeling laminated solid wood walls—with a user-friendly and efficient application. This deliverable focuses on the maintenance and continuous improvement of the initial software.
 
+> **Note:** The application is already compiled and packaged in the `equipe17.jar` file. Simply run this JAR file to launch the application.
+
 ## Table of Contents
 
 - [Vision](#vision)
